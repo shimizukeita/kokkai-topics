@@ -1,0 +1,156 @@
+{
+ "id": "t0853",
+ "name": "国会の予算・施設整備",
+ "category": "政治・行政",
+ "description": "衆議院予算概算要求における議員秘書関係経費・議員会館・議員宿舎・情報システム更改・議事堂の耐震改修や女性用トイレ増設など、国会の運営経費と施設整備の在り方を巡る協議。",
+ "firstSeen": "2026-08-26",
+ "totalChars": 1795,
+ "sessionShare": 0.00009645652578102917,
+ "weekly": [
+  {
+   "week": "2026-W08",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W09",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W10",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W11",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W12",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W13",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W14",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W15",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W16",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W17",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W18",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W19",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W20",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W21",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W22",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W23",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W24",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W25",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W26",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W27",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W28",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W29",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W30",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W31",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W35",
+   "chars": 1795,
+   "share": 0.7414291615035109
+  }
+ ],
+ "topSpeakers": [
+  {
+   "speaker": "築山信彦",
+   "group": "政府・不明",
+   "chars": 1795
+  }
+ ],
+ "speeches": [
+  {
+   "date": "2026-08-26",
+   "house": "衆議院",
+   "meeting": "議院運営委員会庶務小委員会",
+   "speaker": "築山信彦",
+   "group": "政府・不明",
+   "chars": 1795,
+   "excerpt": "○築山事務総長 令和九年度衆議院予算概算要求案をお手元にお配りしてございますが、令和九年度の要求額は七百二十九億九千五百万円、対前年度比十五億千三百万円の増額で要求させていただきたいと考えております。 主要事項につきまして順次御説明させてい",
+   "url": "https://kokkai.ndl.go.jp/txt/122104037X00220260826/2"
+  }
+ ],
+ "speechesTruncated": false
+}

@@ -5,7 +5,7 @@
  "description": "ETC2.0車載器から収集するプローブデータを活用した道路渋滞分析・解消策と、ETC2.0の一般車両への普及促進策。",
  "firstSeen": "2026-03-10",
  "totalChars": 5245,
- "sessionShare": 0.00031168746583768695,
+ "sessionShare": 0.0002818465056944279,
  "weekly": [
   {
    "week": "2026-W08",
@@ -119,6 +119,16 @@
   },
   {
    "week": "2026-W30",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W31",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W35",
    "chars": 0,
    "share": 0
   }

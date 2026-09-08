@@ -5,7 +5,7 @@
  "description": "閣僚・大臣の不祥事や任命責任を巡る議論。",
  "firstSeen": "2026-03-18",
  "totalChars": 4981,
- "sessionShare": 0.00029599909768112845,
+ "sessionShare": 0.00026766014201409826,
  "weekly": [
   {
    "week": "2026-W08",
@@ -119,6 +119,16 @@
   },
   {
    "week": "2026-W30",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W31",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W35",
    "chars": 0,
    "share": 0
   }

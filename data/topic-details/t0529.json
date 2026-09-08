@@ -5,7 +5,7 @@
  "description": "自伐型林業を含む林業振興と国産材利用拡大を巡る議論。",
  "firstSeen": "2026-04-02",
  "totalChars": 19375,
- "sessionShare": 0.001151371716035307,
+ "sessionShare": 0.0010411393799484346,
  "weekly": [
   {
    "week": "2026-W08",
@@ -119,6 +119,16 @@
   },
   {
    "week": "2026-W30",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W31",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W35",
    "chars": 0,
    "share": 0
   }

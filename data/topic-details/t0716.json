@@ -5,7 +5,7 @@
  "description": "国際民間航空条約の理事国数改正議定書および万国郵便連合(UPU)追加議定書の締結承認を巡る審議。",
  "firstSeen": "2026-05-28",
  "totalChars": 4155,
- "sessionShare": 0.00024691352155492644,
+ "sessionShare": 0.00022327401928700627,
  "weekly": [
   {
    "week": "2026-W08",
@@ -119,6 +119,16 @@
   },
   {
    "week": "2026-W30",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W31",
+   "chars": 0,
+   "share": 0
+  },
+  {
+   "week": "2026-W35",
    "chars": 0,
    "share": 0
   }
